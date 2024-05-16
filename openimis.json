@@ -159,6 +159,10 @@
 		{
 			"name": "app_tracker",
 			"pip": "git+https://github.com/Dawda-2m-Corp/openimis-be-app_tracker.git#egg=openimis-be-app_tracker"
+		},
+		{
+			"name": "dashboard_etl",
+			"pip": "git+https://github.com/openimis/openimis-be-dashboard_etl_py.git@develop#egg=openimis-be-dashboard-etl"
 		}
 	]
 }
