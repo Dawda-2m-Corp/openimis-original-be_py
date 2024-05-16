@@ -13,8 +13,8 @@
 			"pip": "git+https://github.com/openimis/openimis-be-workflow_py.git@develop#egg=openimis-be-workflow"
 		},
 		{
-		    "name": "tasks_management",
-		    "pip": "git+https://github.com/openimis/openimis-be-tasks_management_py.git@develop#egg=openimis-be-tasks_management"
+			"name": "tasks_management",
+			"pip": "git+https://github.com/openimis/openimis-be-tasks_management_py.git@develop#egg=openimis-be-tasks_management"
 		},
 		{
 			"name": "report",
@@ -93,8 +93,8 @@
 			"pip": "git+https://github.com/openimis/openimis-be-invoice_py.git@develop#egg=openimis-be-invoice"
 		},
 		{
-		    "name": "calcrule_contribution_legacy",
-		    "pip": "git+https://github.com/openimis/openimis-be-calcrule_contribution_legacy_py.git@develop#egg=openimis-be-calcrule_contribution_legacy"
+			"name": "calcrule_contribution_legacy",
+			"pip": "git+https://github.com/openimis/openimis-be-calcrule_contribution_legacy_py.git@develop#egg=openimis-be-calcrule_contribution_legacy"
 		},
 		{
 			"name": "calcrule_third_party_payment",
@@ -117,16 +117,16 @@
 			"pip": "git+https://github.com/openimis/openimis-be-calcrule_fees_py.git@develop#egg=openimis-be-calcrule_fees"
 		},
 		{
-			"name":"calcrule_unconditional_cash_payment",
-			"pip":"git+https://github.com/openimis/openimis-be-calcrule_unconditional_cash_payment_py.git@develop#egg=openimis-be-calcrule_unconditional_cash_payment"
+			"name": "calcrule_unconditional_cash_payment",
+			"pip": "git+https://github.com/openimis/openimis-be-calcrule_unconditional_cash_payment_py.git@develop#egg=openimis-be-calcrule_unconditional_cash_payment"
 		},
 		{
-			"name":"im_export",
-			"pip":"git+https://github.com/openimis/openimis-be-im_export_py.git@develop#egg=openimis-be-im_export"
+			"name": "im_export",
+			"pip": "git+https://github.com/openimis/openimis-be-im_export_py.git@develop#egg=openimis-be-im_export"
 		},
 		{
-			"name":"dhis2_etl",
-			"pip":"git+https://github.com/openimis/openimis-be-dhis2_etl_py.git@develop#egg=openimis-be-dhis2_etl"
+			"name": "dhis2_etl",
+			"pip": "git+https://github.com/openimis/openimis-be-dhis2_etl_py.git@develop#egg=openimis-be-dhis2_etl"
 		},
 		{
 			"name": "social_protection",
@@ -155,6 +155,10 @@
 		{
 			"name": "grievance",
 			"pip": "git+https://github.com/openimis/openimis-be-grievance_py.git@develop#egg=openimis-be-grievance"
+		},
+		{
+			"name": "app_tracker",
+			"pip": "git+https://github.com/Dawda-2m-Corp/openimis-be-app_tracker.git#egg=openimis-be-app_tracker"
 		}
 	]
 }
